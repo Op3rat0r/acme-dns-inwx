@@ -14,7 +14,7 @@ Don't forget to check file permissions! (recommended: 0600)
 
 `chmod 0600 ~/.inwx.ini`
 
-Run it for the first time:
+Run it for the first time and check the functionality:
 
 ```bash
 # Add the TXT record _acme-challenge.yourdomain.de
