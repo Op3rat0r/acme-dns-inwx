@@ -33,6 +33,7 @@ Take a look at the wiki for more examples.
 Important: This project is **not** affiliated with INWX GmbH!
 
 ## Important links...
+* [JustIT Blog](https://justit.eu/blog/)
 * [Wiki pages](https://github.com/Op3rat0r/acme-dns-inwx/wiki)
 * [INWX DNS API](https://www.inwx.com/en/offer/api)
 * [Let's Encrypt](https://letsencrypt.org/)
