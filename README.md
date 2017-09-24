@@ -12,7 +12,7 @@ Copy the example config file `config/.inwx.ini` to `~/.inwx.ini` and
 insert your credentials. If enabled, enter your TOTP/2FA shared secret.
 Don't forget to check file permissions! (recommended: 0600)
 
-`chmod 0600 .inwx.ini`
+`chmod 0600 ~/.inwx.ini`
 
 Run it for the first time:
 
