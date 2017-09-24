@@ -16,14 +16,14 @@ Don't forget to check file permissions! (recommended: 0600)
 Run it for the first time:
 
 ```bash
-# Add the TXT record _acme-challenge.example.com
+# Add the TXT record _acme-challenge.yourdomain.de
 # with value "test" and set TTL to 300 seconds:
 ./scripts/acme-dns-inwx "yourdomain.de" "test"
 
 # Check your nameserver: (wait some time)
 dig TXT "_acme-challenge.yourdomain.de" +short
 
-# Delete the TXT record _acme-challenge.example.com:
+# Delete the TXT record _acme-challenge.yourdomain.de:
 ./scripts/acme-dns-inwx --del "yourdomain.de"
 ```
 
