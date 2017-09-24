@@ -1,6 +1,7 @@
 # ACME-DNS-INWX
 Simple helper script for various [Let's Encrypt][1] clients.
-Developed for [GetSSL][2], tested with Debian and Ubuntu.
+Developed for [GetSSL][2], tested with Debian Stretch. Should
+work with Ubuntu too.
 
 ## Initial setup
 Download or clone the archive and extract it to a new folder.
