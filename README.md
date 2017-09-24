@@ -4,11 +4,14 @@ Developed for [GetSSL][2], tested at Debian and Ubuntu.
 
 ## Initial setup
 Download or clone the archive and extract it to a new folder.
+
 `git clone https://github.com/Op3rat0r/acme-dns-inwx.git`
 
 Copy the example config file `config/.inwx.ini` to `~/.inwx.ini` and
 insert your credentials. If enabled, enter your TOTP/2FA shared secret.
-Don't forget to check file permissions! (recommended: 0600) - `chmod 0600 .inwx.ini`
+Don't forget to check file permissions! (recommended: 0600)
+
+`chmod 0600 .inwx.ini`
 
 Run it for the first time:
 
